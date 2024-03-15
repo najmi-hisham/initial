@@ -11,4 +11,5 @@ print("hey you")
 print("i dont know what im  doing right now")
 
 print("hello biy")
-print("Humairah or umairah")
+print("Humairah or umair")
+# %%
